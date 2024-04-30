@@ -1,6 +1,6 @@
 # HybridMLModelsforForecasting
 Contains Python codes for Hybrid machine learning models viz. Stacked Stateless and Stateful LSTM, GRU, and Autoencoder LSTM RNN models
-
+Slides here: https://scholarsjunction.msstate.edu/grad-research-symposium/1/
 # Abstract
 Wind speed is a powerful source of renewable energy, which can be used as an alternative to the non-renewable resources for production of electricity. Renewable sources are clean, infinite and do not impact the environment negatively during production of electrical energy. However, while eliciting electrical energy from renewable resources viz. solar irradiance, wind speed, hydro should require  special planning failing which may result in huge loss of labour and money for setting up the system. In this paper, we discuss four deep recurrent neural networks viz. Stacked Stateless LSTM, Stacked Stateless GRU, Stacked Stateful LSTM and Statcked Stateful GRU which will be used to predict wind speed on a short-term basis for the airport sites beside two campuses of Mississippi State University. The paper does a comprehensive analysis of the performance of the models used describing their architectures and how efficiently they elicit the results with the help of RMSE values. A detailed description of the time and space complexities of the above models has also been discussed.
 
